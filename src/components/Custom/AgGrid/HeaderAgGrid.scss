@@ -1,0 +1,15 @@
+.custom-contains-ag {
+  position: relative;
+  .ag-footer {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 48px;
+
+    .select-pagesize {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+    }
+  }
+}

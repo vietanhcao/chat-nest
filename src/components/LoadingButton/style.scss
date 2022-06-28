@@ -1,0 +1,9 @@
+.button-loading {
+  visibility: hidden;
+  position: absolute;
+  top: calc((100% - 16px) / 2);
+  left: 15%;
+}
+.show-button-loading {
+  visibility: visible;
+}

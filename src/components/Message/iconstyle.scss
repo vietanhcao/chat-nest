@@ -1,0 +1,12 @@
+.message-icon {
+  width: 25px;
+  height: 25px;
+  margin-right: 16px;
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.mess-error-icon {
+  background-image: url('../../assets/icons/MessIcon/warn.png'); /* The image used */
+}
+.mess-success-icon {
+  background-image: url('../../assets/icons/MessIcon/check.png'); /* The image used */
+}

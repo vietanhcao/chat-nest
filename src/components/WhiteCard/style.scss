@@ -1,0 +1,16 @@
+.white-card {
+  background-color: white;
+  padding: 20px 10px;
+  width: 100%;
+  border: 1px solid #eef1f1;
+  box-sizing: border-box;
+  box-shadow: 0px 2px 4px rgba(38, 52, 52, 0.08);
+  border-radius: 2px;
+  .white-card-title {
+    margin-bottom: 15px;
+    color: #2e4960;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 38px;
+  }
+}

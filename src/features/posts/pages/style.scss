@@ -1,0 +1,27 @@
+.bg--image {
+  // background-image: url('./Login-Background.08af0edd.jpg');
+  background-image: url('../../../assets/image/bg-login.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg__header--login {
+  // background-image: url('./Login-Background.08af0edd.jpg');
+  background-image: url('../../../assets/image/bg--header--login.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.otpInput {
+  width: 48px !important;
+  height: 48px !important;
+  border: 1px solid #aaaaaa !important;
+  margin-left: 8px;
+  margin-right: 8px;
+  font-size: 18px;
+  border-radius: 4px;
+  color: #162a3a !important;
+  background: transparent;
+  &:focus-visible {
+    outline: none;
+  }
+}

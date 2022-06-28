@@ -1,0 +1,41 @@
+.tab-navigation {
+  .tab-navigation-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .tab-navigation-name {
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 20px;
+      color: #2e4960;
+
+      padding-top: 12px;
+      padding-bottom: 10px;
+    }
+    .tab-navigation-active {
+      color: #009cc1;
+    }
+    .tab-border-bottom {
+      width: 35%;
+      border-bottom: 3px solid;
+      border-bottom-color: transparent;
+    }
+    .active-bottom-border {
+      border-bottom-color: #4ab0ce;
+    }
+  }
+  .ant-tabs-tab {
+    padding: 0px !important;
+  }
+  .ant-tabs-ink-bar {
+    height: 0px !important;
+  }
+  .ant-tabs-nav {
+    margin-bottom: 10px;
+  }
+}
+
+.tab-navigation-disabled {
+  cursor: not-allowed;
+  pointer-events: none;
+}

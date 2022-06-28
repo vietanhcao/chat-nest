@@ -1,0 +1,76 @@
+.CBreadcrumb {
+  font-size: 13px;
+  & .Link {
+    color: #fff;
+    // font-size: 13px;
+  }
+  & .Link:hover {
+    color: #ffc606;
+  }
+}
+
+.nav-group.item--children > a i {
+  font-size: 16px;
+}
+
+.nav-group-items a i {
+  font-size: 16px;
+}
+
+
+// .item--children a {
+//   color: #6d80c2 !important;
+//   font-size: 12px;
+//   &:hover,
+//   &.active {
+//     color: #fff !important;
+//     background-color: #6d80c2 !important;
+//   }
+// }
+
+// .item--children i {
+//   font-size: 14px !important;
+// }
+
+// .sidebar-nav .nav-group.show > a {
+//   color: #fff !important;
+//   & > i {
+//     color: #fff !important;
+//   }
+// }
+
+// .sidebar-nav::-webkit-scrollbar {
+//   background-color: #57569c;
+//   width: 8px;
+// }
+// .sidebar-nav::-webkit-scrollbar-thumb {
+//   background: #6043b3;
+//   box-shadow: inset 2px 2px 5px 0 rgba(#fff, 0.5);
+//   border-radius: 100px;
+// }
+
+// .sidebar-narrow-unfoldable.show:hover{
+//   & .nav-link.nav-group-toggle i{
+//     margin-left: 1rem;
+//     margin-right: 1rem;
+//   }
+// }
+.sidebar-brand {
+  position: relative;
+}
+
+.sidebar-brand-full {
+  position: absolute;
+  right: 0;
+}
+
+.show-small-logo {
+  .logo-icx {
+    display: none;
+  }
+  &:hover {
+    .logo-icx {
+      display: block;
+    }
+  }
+}

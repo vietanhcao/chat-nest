@@ -1,0 +1,16 @@
+2022-04-01 18:05:26.476 +0700 [debug] ([34mlogger.js[0m) [31mStarting FDK in node v12.22.0 on darwin[0m
+2022-04-01 18:05:27.094 +0700 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "/Users/admin/Desktop/chat-example/.fdk/store.sqlite"[0m
+2022-04-01 18:05:27.300 +0700 [debug] ([34mindex.js[0m) [31mRunning with args {"cmd":"version","gopts":{},"opts":{},"goptArg":{},"optArg":{},"args":[]}[0m
+2022-04-01 18:05:27.301 +0700 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-04-01 18:05:27.301 +0700 [debug] ([34mupdater.js[0m) [31msaw --skip-update-check flag, skipping update check[0m
+2022-04-01 18:05:27.304 +0700 [info] Installed: 7.5.1
+2022-04-01 18:05:27.741 +0700 [debug] ([34mversion.js[0m) [31mdownloaded update manifest as {"cli":{"deprecated":{"version":"<7","message":"This FDK version has been deprecated and will no longer receive updates. To move to the latest version, please visit https://community.developers.freshworks.com/t/fdk-v7-0-announcing-node-js-v12-and-es6-support/3606"},"forced":{"version":"7.0.0","command":"npm install https://dl.freshdev.io/cli/fdk-7.0.0.tgz -g","message":"Your FDK version has been forced updated to v7.0.0, please visit https://community.developers.freshworks.com/t/fdk-v7-0-announcing-node-js-v12-and-es6-support/3606 to know more"},"latest":{"version":"7.5.1","command":"npm install https://dl.freshdev.io/cli/fdk-7.5.1.tgz -g","message":""}},"addon":{"version":"1.10.0","url":"https://dl.freshdev.io/cli-addon/addon-1.10.0.zip"}}[0m
+2022-04-01 18:05:27.745 +0700 [info] Already Up to Date..!
+2022-04-01 18:09:07.320 +0700 [debug] ([34mlogger.js[0m) [31mStarting FDK in node v12.22.0 on darwin[0m
+2022-04-01 18:09:08.466 +0700 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "/Users/admin/Desktop/chat-example/.fdk/store.sqlite"[0m
+2022-04-01 18:09:08.609 +0700 [debug] ([34mindex.js[0m) [31mRunning with args {"cmd":"create","gopts":{},"opts":{},"goptArg":{},"optArg":{},"args":[]}[0m
+2022-04-01 18:09:08.610 +0700 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-04-01 18:09:08.610 +0700 [debug] ([34mupdater.js[0m) [31munknown last check, likely a new installation, looking for updates again[0m
+2022-04-01 18:09:08.979 +0700 [debug] ([34mupdater.js[0m) [31mdownloaded update manifest as {"cli":{"deprecated":{"version":"<7","message":"This FDK version has been deprecated and will no longer receive updates. To move to the latest version, please visit https://community.developers.freshworks.com/t/fdk-v7-0-announcing-node-js-v12-and-es6-support/3606"},"forced":{"version":"7.0.0","command":"npm install https://dl.freshdev.io/cli/fdk-7.0.0.tgz -g","message":"Your FDK version has been forced updated to v7.0.0, please visit https://community.developers.freshworks.com/t/fdk-v7-0-announcing-node-js-v12-and-es6-support/3606 to know more"},"latest":{"version":"7.5.1","command":"npm install https://dl.freshdev.io/cli/fdk-7.5.1.tgz -g","message":""}},"addon":{"version":"1.10.0","url":"https://dl.freshdev.io/cli-addon/addon-1.10.0.zip"}}[0m
+2022-04-01 18:09:08.979 +0700 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-04-01 18:09:09.567 +0700 [debug] ([34mdata-util.js[0m) [31mRead {}[0m

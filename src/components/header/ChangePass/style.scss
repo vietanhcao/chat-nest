@@ -1,0 +1,21 @@
+.change-pass-modal {
+  .change-pass-buttons {
+    display: flex;
+    justify-content: flex-end;
+    margin-left: -5px;
+    margin-right: -5px;
+    .change-pass-button {
+      width: 130px;
+    }
+    // .change-pass-loading-button {
+
+    // }
+    .ant-modal-body {
+      padding-bottom: 0px !important;
+    }
+  }
+
+  .change-pass-label {
+    width: 140px;
+  }
+}
